@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabricakmakci;
 - 📚 I'm studying Software Engineering
-- 👀 I’m interested in Mobile App Dveloper;
+- 👀 I’m interested in Mobile App Developer;
 - 🌱 I’m currently learning Swift and Flutter;
 
 
